@@ -1,2 +1,2 @@
 # Rubik-s-Cube-CATIA-VBA
-Rubik's Cube Program, Display and operation in CATIA Session. CATIA VBA Programming is applied in this program
+Rubik's Cube Program, Display and operation in CATIA Session. Programming in Vb.net 2017 using CATIA Automation Interfaces.
